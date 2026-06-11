@@ -1,4 +1,4 @@
-# Hi, I'm Ali Arale 👋
+# Hi, I'm Ali 👋
 
 ### Data Analyst | Python Developer | Open Data & Business Intelligence Enthusiast
 
