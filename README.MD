@@ -1,27 +1,83 @@
-# Hi, I'm Ali 👋
+# 🇸🇴 Ali Arale
 
-### Data Analyst | Python Developer | Open Data & Business Intelligence Enthusiast
+### Data Analyst • Python Developer • Open Data Advocate • Business Intelligence Builder
 
-I am a data analyst and developer passionate about transforming data into actionable insights. My work focuses on building open-data platforms, market intelligence systems, analytics dashboards, and decision-support tools that improve transparency, research, and data-driven decision making.
-
-Based in Mogadishu, Somalia 🇸🇴, I enjoy developing practical solutions using Python, SQL, Streamlit, and modern analytics tools.
+Transforming raw data into public insights, analytics platforms, and decision-support systems that empower research, transparency, and evidence-based decision-making across Somalia.
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me
+
+I'm a Data Analyst and Python Developer based in Mogadishu, Somalia 🇸🇴.
+
+My work focuses on building real-world data products that help governments, organizations, researchers, businesses, and communities access and understand information more effectively.
+
+I specialize in creating:
 
 * Open Data Platforms
 * Business Intelligence Dashboards
 * Market Intelligence Systems
-* Data Analytics Solutions
 * Economic Monitoring Tools
-* Research & Reporting Applications
+* Research & Reporting Solutions
+* Data Visualization Applications
+
+My goal is simple:
+
+> Make data accessible, understandable, and useful for everyone.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Flagship Projects
 
-**Programming & Data**
+### 🇸🇴 Somalia National Statistics Hub
+
+National open-data platform providing interactive dashboards, regional comparisons, dataset discovery, and statistical insights across population, economy, education, health, mortality, and agriculture sectors.
+
+🌐 https://somalia-national-statistics-app-zxpvhzlgupnsfs3ggu33vc.streamlit.app
+
+---
+
+### 📊 Somalia Open Data Portal
+
+Centralized repository for Somalia datasets, visualizations, downloads, and public-sector information.
+
+🌐 https://somalia-open-data-app-5mejzs3dqrpeekdirxmb5w.streamlit.app
+
+---
+
+### 📈 Somalia Economic Intelligence Platform (EIP)
+
+Economic monitoring dashboard tracking macroeconomic indicators, inflation, exchange rates, fuel prices, and market trends.
+
+🌐 https://somalia-eip-dzm6xuddjt9dtfkjdihycc.streamlit.app
+
+---
+
+### 💹 Somalia Market Intelligence Platform
+
+Interactive platform for monitoring commodity prices, foreign exchange rates, fuel markets, and economic movements.
+
+🌐 https://somaliamarketintelligence-yt6rdvepnbufbxyplyxzds.streamlit.app
+
+---
+
+### 📑 Somalia Tender Intelligence Platform
+
+Procurement intelligence system that helps users discover, analyze, and track tender opportunities.
+
+🌐 https://somalia-tender-intelligence-platform-y543mjeeffpxjqxrfvvipo.streamlit.app
+
+---
+
+### 🏥 MedTrack
+
+Healthcare management and reporting platform designed to improve medical data organization, tracking, and reporting.
+
+---
+
+## 🛠 Technology Stack
+
+### Data & Programming
 
 * Python
 * SQL
@@ -29,77 +85,59 @@ Based in Mogadishu, Somalia 🇸🇴, I enjoy developing practical solutions usi
 * NumPy
 * SQLite
 
-**Analytics & Visualization**
+### Analytics & Visualization
 
 * Power BI
 * Streamlit
 * Plotly
 * Excel
 
-**Tools**
+### Development Tools
 
 * Git
 * GitHub
 * VS Code
 * Linux
+* Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+## 📊 Areas of Interest
 
-### 🇸🇴 Somalia Open Data Portal
-
-A centralized platform for discovering, exploring, and visualizing Somalia-related datasets.
-
-### 📊 Somalia Market Intelligence Platform
-
-Interactive market monitoring system tracking exchange rates, commodity prices, fuel prices, and economic indicators.
-
-### 📑 Somalia Tender Intelligence Platform
-
-Procurement intelligence platform designed to help users discover and monitor tender opportunities.
-
-### 📈 Somalia Economic Intelligence Platform (EIP)
-
-Economic monitoring dashboard providing insights into exchange rates, fuel prices, market indicators, and economic trends.
-
-### 🏥 MedTrack
-
-Healthcare information and management system designed to improve record tracking and reporting.
-
----
-
-## 🌐 Live Applications
-
-* Somalia Open Data Portal
-  https://somalia-open-data-app-5mejzs3dqrpeekdirxmb5w.streamlit.app
-
-* Somalia Market Intelligence Platform
-  https://somaliamarketintelligence-yt6rdvepnbufbxyplyxzds.streamlit.app
-
-* Somalia Tender Intelligence Platform
-  https://somalia-tender-intelligence-platform-y543mjeeffpxjqxrfvvipo.streamlit.app
-
-* Somalia Economic Intelligence Platform (EIP)
-  https://somalia-eip-dzm6xuddjt9dtfkjdihycc.streamlit.app
-
----
-
-## 🎯 Current Focus
-
-* Data Analytics & Visualization
-* Open Data Initiatives
+* Open Government Data
+* Economic Intelligence
 * Business Intelligence
-* Market Intelligence
-* AI-Powered Applications
-* Economic Research
+* Market Analytics
+* Data Visualization
+* Digital Transformation
+* AI-Powered Analytics
+* Public Sector Innovation
 
 ---
 
-## 📫 Connect
+## 🎯 Current Mission
 
-* GitHub: https://github.com/Alibaash
+Building Somalia's digital data ecosystem through open-data initiatives, intelligent analytics platforms, and modern decision-support systems.
 
 ---
 
-### Turning data into meaningful insights and practical solutions for Somalia.
+## 📈 GitHub Focus
+
+* Data Analytics Projects
+* Dashboard Development
+* Open Data Applications
+* Python Automation
+* Research Platforms
+* Public Data Infrastructure
+
+---
+
+## 🤝 Connect
+
+🌐 GitHub: https://github.com/Alibaash
+
+📍 Mogadishu, Somalia
+
+---
+
+### "Turning data into knowledge, and knowledge into impact."
