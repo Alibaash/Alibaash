@@ -29,6 +29,20 @@ My goal is simple:
 
 ## 🚀 Flagship Projects
 
+### 🇸🇴 Somalia Development Indicators Platform (SDIP)
+
+### Tracking Somalia's Development Progress Through Data
+
+A modern open-data platform designed to monitor, visualize, and analyze Somalia's development performance across economic, social, environmental, and governance indicators.
+
+The platform provides policymakers, researchers, development partners, NGOs, students, and the public with interactive access to national and regional development statistics aligned with the Sustainable Development Goals (SDGs).
+
+**Launch the platform:**
+
+https://somalia-development-indicators-platform-y92tb94kcspgla3cvvupqg.streamlit.app
+
+---
+
 ### 🇸🇴 Somalia National Statistics Hub
 
 National open-data platform providing interactive dashboards, regional comparisons, dataset discovery, and statistical insights across population, economy, education, health, mortality, and agriculture sectors.
