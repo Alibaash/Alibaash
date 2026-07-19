@@ -203,7 +203,3 @@ https://ali-arale-portfolio.vercel.app
 
 Location:
 Somalia 🇸🇴
-
----
-
-I build complete data solutions, including
