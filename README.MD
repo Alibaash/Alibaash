@@ -116,4 +116,96 @@ Healthcare information management system supporting:
 
 # 🏗 Data Engineering Approach
 
+Data Sources
+↓
+Collection Pipelines
+↓
+Data Processing
+↓
+Structured Datasets
+↓
+Analytics Engines
+↓
+Visualization Platforms
+↓
+Decision Support Systems
+
+
+My focus is moving beyond dashboards toward reusable data infrastructure.
+
+---
+
+# 🛠 Technology Stack
+
+### Programming & Data
+
+Python  
+SQL  
+Pandas  
+NumPy  
+SQLite  
+
+### Analytics & Visualization
+
+Streamlit  
+Plotly  
+Power BI  
+Excel  
+
+### Software Development
+
+React  
+TypeScript  
+FastAPI / Node.js  
+Git & GitHub  
+Linux  
+Docker  
+
+### Data Science
+
+Machine Learning  
+Statistical Analysis  
+Data Visualization  
+Business Intelligence  
+
+---
+
+# 🎯 Current Focus
+
+Building:
+
+- 🇸🇴 Somalia-focused data infrastructure
+- 📊 Open government data systems
+- 📈 Economic intelligence platforms
+- 🧭 Development monitoring tools
+- 🤖 AI-ready datasets and analytics systems
+
+---
+
+# 🌍 Vision
+
+To contribute toward a connected national data ecosystem where information can support:
+
+- Better decisions
+- Transparent governance
+- Research and innovation
+- Economic development
+
+---
+
+# 📫 Connect
+
+GitHub:
+https://github.com/Alibaash
+
+Portfolio:
+https://ali-arale-portfolio.vercel.app
+
+Location:
+Somalia 🇸🇴
+
+---
+
+> Building systems that transform data into intelligence.
+
 I build complete data solutions, including:
