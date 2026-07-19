@@ -206,6 +206,4 @@ Somalia 🇸🇴
 
 ---
 
-> Building systems that transform data into intelligence.
-
-I build complete data solutions, including:
+I build complete data solutions, including
