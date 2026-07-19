@@ -1,225 +1,119 @@
-# 🇸🇴 Ali Arale Portfolio
+# 🇸🇴 Ali Arale
 
-## Data Analyst • Python Developer • Open Data Systems Builder • National Data Platform Architect
+## Data Analyst • Python Developer • Open Data Systems Builder
 
-Building Somalia’s digital data ecosystem through open data platforms, intelligence systems, and decision-support tools that transform fragmented information into actionable national insights.
+Building data platforms and intelligence systems that transform fragmented information into actionable insights for Somalia.
 
-🌐 Live Website: https://ali-arale-portfolio.vercel.app
-
----
-
-# 🌍 About Me
-
-I'm a Data Analyst and Python Developer based in Mogadishu, Somalia 🇸🇴.
-
-I design and build **national-scale data systems** that centralize information across economic, social, and development sectors.
-
-My work focuses on transforming fragmented public data into structured platforms that support:
-
-- Evidence-based decision making
-- Governance and transparency
-- Research and analytics
-- Business intelligence
-- Digital transformation
-
-Instead of building isolated dashboards, I build **connected data ecosystems**.
+🌐 Portfolio: https://ali-arale-portfolio.vercel.app
 
 ---
 
-# 🚀 What I Build
+# 👨‍💻 About Me
 
-I specialize in:
+I'm a Data Analyst and Python Developer focused on building **data-driven systems, analytics platforms, and open data infrastructure**.
 
-- 🏛 National Open Data Platforms
-- 📊 Business Intelligence Systems
-- 📈 Economic Intelligence Platforms
-- 🧭 Development Monitoring Systems
-- 💹 Financial and Market Analytics Tools
-- 🗂 Data Infrastructure and APIs
-- 📊 Interactive Data Visualization Platforms
+My work focuses on transforming raw and fragmented datasets into:
 
----
+- 📊 Interactive analytics platforms
+- 🏛 Open data systems
+- 📈 Economic intelligence tools
+- 🧭 Development monitoring platforms
+- 🤖 Decision-support systems
 
-# ⭐ Flagship Projects
-
-## 🇸🇴 Somalia Development Indicators Platform (SDIP)
-
-A national development observatory tracking Somalia’s progress across:
-
-- SDGs
-- Economy
-- Health
-- Education
-- Environment
-- Regional development
-
-Live:
-https://somalia-development-indicators-platform-y92tb94kcspgla3cvvupqg.streamlit.app
+I believe data infrastructure is the foundation for better research, governance, and digital transformation.
 
 ---
 
-## 🇸🇴 Somalia National Statistics Hub
+# 🚀 Featured Projects
 
-A centralized statistical platform providing interactive dashboards and regional insights across:
+## 🇸🇴 Somalia Data Ecosystem
+
+A collection of interconnected platforms designed to organize, analyze, and visualize Somalia's economic, social, and development data.
+
+---
+
+## 📊 Somalia National Statistics Hub
+
+Interactive national statistics platform providing insights across:
 
 - Population
 - Economy
 - Education
 - Health
 - Agriculture
+- Regional indicators
 
-Live:
+🔗 Live Demo:
 https://somalia-national-statistics-app-zxpvhzlgupnsfs3ggu33vc.streamlit.app
 
 ---
 
-## 📊 Somalia Open Data Portal
+## 🧭 Somalia Development Indicators Platform
 
-A unified open-data system for exploring, analyzing, and downloading Somalia public datasets across multiple sectors.
+Development monitoring system tracking:
 
-Live:
-https://somalia-open-data-app-5mejzs3dqrpeekdirxmb5w.streamlit.app
+- Sustainable Development Goals
+- Social indicators
+- Economic progress
+- Regional development trends
+
+🔗 Live Demo:
+https://somalia-development-indicators-platform-y92tb94kcspgla3cvvupqg.streamlit.app
 
 ---
 
-## 📈 Somalia Economic Intelligence Platform (EIP)
+## 📈 Somalia Economic Intelligence Platform
 
-Economic monitoring system tracking:
+Economic analytics platform monitoring:
 
-- Inflation
+- Inflation trends
 - Exchange rates
 - Fuel prices
-- Market dynamics
-- Economic indicators
+- Market indicators
 
-Live:
+🔗 Live Demo:
 https://somalia-eip-dzm6xuddjt9dtfkjdihycc.streamlit.app
 
 ---
 
 ## 💹 Somalia Market Intelligence Platform
 
-Market analytics system covering:
+Market analytics system focused on:
 
-- Exchange rates
-- Commodities
-- Fuel prices
-- Market behavior insights
+- Commodity prices
+- Currency movements
+- Market behavior
 
-Live:
+🔗 Live Demo:
 https://somaliamarketintelligence-yt6rdvepnbufbxyplyxzds.streamlit.app
 
 ---
 
 ## 📑 Somalia Tender Intelligence Platform
 
-Procurement intelligence platform for discovering, analyzing, and tracking public tender opportunities.
+Procurement intelligence system for analyzing public tender information and opportunities.
 
-Live:
+🔗 Live Demo:
 https://somalia-tender-intelligence-platform-y543mjeeffpxjqxrfvvipo.streamlit.app
+
+---
+
+## 🌍 Somalia Open Data Portal
+
+A unified platform for exploring and analyzing public datasets across multiple sectors.
 
 ---
 
 ## 🏥 MedTrack
 
-Healthcare data management system designed to improve:
+Healthcare information management system supporting:
 
-- Medical record tracking
+- Medical records
 - Reporting workflows
 - Healthcare analytics
 
 ---
 
-# 🧠 Data System Approach
+# 🏗 Data Engineering Approach
 
-My focus is not only dashboards.
-
-I build complete data systems including:
-
-- Data collection pipelines
-- Data cleaning workflows
-- Structured datasets
-- Analytics engines
-- Interactive dashboards
-- Decision-support systems
-- APIs and infrastructure
-
----
-
-# 🛠 Technology Stack
-
-## Programming & Data Engineering
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- SQLite
-
-## Visualization & Analytics
-
-- Streamlit
-- Plotly
-- Power BI
-- Excel
-
-## Development Tools
-
-- React
-- TypeScript
-- Git & GitHub
-- Linux
-- VS Code
-- Jupyter Notebook
-
----
-
-# 📊 Focus Areas
-
-- 🇸🇴 National Data Infrastructure
-- 📊 Open Government Data Systems
-- 📈 Economic Intelligence
-- 💹 Market Analytics
-- 🧭 SDG Monitoring
-- 🤖 Data-driven Decision Systems
-- 🌍 Public Sector Digital Transformation
-
----
-
-# 🎯 Mission
-
-Building a **national data intelligence ecosystem for Somalia** by integrating:
-
-- Open data
-- Analytics platforms
-- Intelligence systems
-- Decision-support tools
-
-into a connected digital infrastructure.
-
----
-
-# 📈 GitHub Direction
-
-My repositories focus on:
-
-- National-scale data platforms
-- Open data ecosystems
-- Economic intelligence systems
-- Market monitoring tools
-- Development analytics dashboards
-- Data APIs and infrastructure
-
----
-
-# 🤝 Connect
-
-GitHub:
-https://github.com/Alibaash
-
-Location:
-Mogadishu, Somalia 🇸🇴
-
----
-
-> "Building data systems that turn information into national intelligence."
+I build complete data solutions, including:
